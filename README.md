@@ -30,6 +30,7 @@ cd energy-stock-predictor
 ```
 
 **2. Build the docker image:**
+
 **Normal:**
 ```bash
 docker build -t stock_predictor .
