@@ -25,7 +25,7 @@ Before running this project, ensure you have the following:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/dalishev/stock_predictor.git](https://github.com/dalishev/stock_predictor.git)
+git clone https://github.com/dalishev/stock_predictor.git
 cd energy-stock-predictor
 ```
 
